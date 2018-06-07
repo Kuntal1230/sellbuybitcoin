@@ -1,0 +1,513 @@
+
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+
+    
+}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+
+    
+}
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+
+
+/*Buy bitcoins responsive start hear*/
+.bitcoins_fluid {
+		height: auto;
+}
+
+
+
+
+
+.bitcoins_fluid .bitcoins_top {
+		margin: 15px 0;
+}
+
+.bitcoins_fluid .block-center .gg1 {
+	padding-right: 17px;
+}
+
+.bitcoins_fluid .block-center .left-container {
+	padding: 0;
+}
+
+.bitcoins_fluid .block-center .gg2 {
+	padding-left: 17px;
+}
+
+.bitcoins_fluid .block-center .right-container {
+	padding-left: 0px;
+	}
+
+.bitcoins_fluid .block-center .right-container .form_group .group_l h4 {
+	padding: 23px 0px 0 12px;	
+}
+
+.bitcoins_fluid .block-center .right-container .form_group2 .group_l h4 {
+	padding: 23px 0px 0 12px;
+}
+
+.bitcoins_fluid .block-center .right-container .form_group5 button {
+	margin: 15px 0 10px 0;
+}
+
+
+/*Buy bitcoins responsive end hear*/
+
+
+
+
+
+
+/*darker-bg responsive start hear*/
+
+.darker_fluid .darker-bg .fancy-title h3 {
+	font-size: 20px;
+}
+
+/*darker-bg responsive end hear*/
+
+
+.pay_fluid .pay_detail .detail_a {
+	height: 399px;
+}
+
+
+/*Join responsive start hear*/
+.Join_fluid .join .join_img img {
+
+	max-width: 255px;
+}
+
+.Join_fluid .join .join_top span {
+	width: 40%;
+}
+
+.Join_fluid .join .join_contain .join_a a {
+	width: 85%;
+}
+
+/*Join responsive end hear*/
+
+
+
+
+
+/*earn responsive start hear*/
+.earn_fluid .earn .earn_top h3 {
+	font-weight: normal;
+}
+
+.earn_fluid .earn .earn_top {
+	margin: 0 0 30px 0;
+}
+
+.earn_fluid .earn .earn_top span {
+	width: 40%;
+}
+
+/*earn responsive end hear*/
+
+
+
+
+/*paxful responsive start hear*/
+
+.paxful_fluid .paxful .col_1 {
+	margin: 8px 0;
+}
+
+.paxful_fluid .paxful .paxful_top {
+	margin-top: 0;
+}
+
+.paxful_fluid .paxful .paxful_top span {
+	width: 40%;
+}
+
+.paxful_fluid .paxful .paxful_top h3 {
+	font-weight: normal;
+}
+
+.paxful_fluid .paxful .col_1 .div_i1 {
+	margin: 10px 0px 15px 70px;
+}
+
+.paxful_fluid .paxful .col_1 .div_i {
+	
+	margin: 0 0 15px 70px;
+}
+
+/*paxful responsive end hear*/
+
+
+
+
+
+/*seen responsive start hear*/
+.seen_fluid .seen .seen_top span {
+	width: 40%;
+}
+
+.seen_fluid .seen .center {
+	margin: 0 55px 0px;
+}
+
+.seen_fluid .seen .center a img {
+	max-width: 100%;
+}
+
+.seen_fluid .seen .seen_p {
+	padding-top: 30px;
+}
+
+/*seen responsive end hear*/
+
+
+
+/*wallet responsive start hear*/
+
+.wallet .wallet_top h3 {
+	color: #333;
+	font-size: 26px;
+	line-height: 36px;
+}
+
+.wallet .wallet_top h5 {
+	font-size: 19px;
+}
+
+.wallet .wallet_top a {
+	width: 95%;
+	margin: 36px 0 0 0;
+}
+
+
+
+/*wallet responsive end hear*/
+
+
+
+
+
+/********************Buy-bitcoin responsive START hear**********************/
+/*********************HOME PAGE responsive START hear**********************/
+
+
+
+
+
+/*baner responsive start hear*/
+.offers_fluid{
+	padding: 0;
+}
+.offers_fluid .offers_container{
+	padding: 0;
+}
+
+.offers_fluid .offers_container .open_col{
+	padding: 0;
+}
+
+.offers_fluid .using .span_ {
+	margin-left: 51px;
+}
+.offers_fluid .using .span_1 {
+	margin-left: 111px;
+}
+
+.offers_fluid .open_site th {
+	font-size: 10px;
+}
+
+.offers_fluid .open_site .tr_2 .bank {
+	line-height: 0;
+	font-size: 8px;
+}
+.offers_fluid .open_site .tr_2 .usd_h4 {
+	margin: 0;
+}
+.dollar {
+	line-height: 33px;
+}
+
+.offers_fluid .open_site .tr_2 .tr_2_td a {
+	font-size: 9px;
+}
+
+.offers_fluid .open_site .tr_2 .bye_a {
+	padding: 1px 1px;
+	font-size: 12px;
+}
+.offers_fluid .open_site .tr_2 .tr_2_td .span_seen {
+	font-size: 10px;
+}
+
+.offers_fluid .p1_tab {
+	font-size: 15px;
+	padding: 0 0 10px 10px;
+	
+}
+/*baner responsive start hear*/
+
+
+
+/********************Buy-bitcoin responsive end hear**********************/
+/*********************Buy-bitcoin responsive end hear**********************/
+
+
+
+
+
+
+
+/********************form_page responsive start hear**********************/
+/*********************form_page responsive start hear**********************/
+
+/*form_page responsive start hear*/
+.form_page_fluid {
+	padding: 0;
+}
+
+.form_page_fluid .form_page .form_page_button {
+	height: 40px;
+	width: 195px;
+	margin: 0 10px 12px 0;
+}
+
+.form_page_fluid .form_page .full_col_text .text_1 {
+	font-size: 19px;
+	padding: 0 0 0 20px;
+}
+
+.form_page_fluid .form_page .text_R {
+	height: 62px;
+	width: 97px;
+}
+
+.form_page_fluid .form_page .text_R_h4 {
+	font-size: 16px;
+}
+
+.form_page_fluid .form_page .input_group .min_span {
+	padding: 0 7px 0 10px;
+	font-size: 17px;
+	width: 49px;
+}
+
+.form_page_fluid .form_page .input_group .Min_input {
+	width: 60%;
+}
+
+.form_page_fluid .form_page .or .or_span {
+	width: 43%;
+}
+
+.form_page_fluid .form_page .or .or_h4 {
+	font-size: 14px;
+}
+/*form_page responsive end hear*/
+
+/********************form_page responsive end hear**********************/
+/*********************form_page responsive end hear**********************/
+
+
+
+
+
+
+
+/********************wallet responsive START hear**********************/
+/*********************wallet PAGE responsive START hear**********************/
+
+.why_fluid .col_width {
+	overflow: hidden;
+	width: 100%;
+	float: none;
+}
+
+.why_fluid {
+	padding: 0;
+}
+
+.why_fluid .col_width .why .why_i {
+	margin: 0 0 15px 0;
+}
+
+.What_fluid {
+	padding: 0;
+}
+.What_fluid .What .What_L {
+	margin-left: 0;
+}
+
+.What_fluid .What .padding{
+	padding: 0;
+}
+
+.features_fluid .features .features_img {
+	left: 10px;
+	
+}
+
+.features_fluid .features .a_div .features_a {
+	width: 80%;
+	font-size: 11px;
+}
+.Buying_fluid {
+	padding: 0;
+}
+.Buying_fluid .Buying .Buying_L {
+	margin-left: 0;
+}
+.Buying_fluid .Buying .padding {
+	padding: 0;
+}
+
+.Buying_fluid .Buying .Buying_R {
+	margin-left: 17%;
+}
+
+.Buying_fluid .Buying .Buying_img {
+	max-width: 50%;
+	margin-left: 17%;
+}
+
+.pay_fluid .pay_row .pay_row_a {
+	margin: 22px 0 0 0;
+}
+
+.business_fluid {
+	padding: 0;
+}
+
+.Create_fluid .Create_a {
+	font-size: 14px;
+	padding: 12px 25px;
+	height: 65px;
+}
+
+/********************wallet responsive end hear**********************/
+/*********************wallet PAGE responsive end hear**********************/
+
+
+
+
+
+
+
+
+/********************loging responsive start hear**********************/
+/********************loging PAGE responsive start hear**********************/
+.Lo_baner_fluid {
+	height: auto;
+}
+
+.Lo_baner_fluid .baner .border_r2 {
+	overflow: hidden;
+	border-right: 0px;
+}
+
+.Lo_baner_fluid .baner .col_r {
+	margin-top: 5px;
+	margin-bottom: 10px;
+}
+
+.active_fluid .active_R {
+	margin: 0;
+}
+
+.active_fluid .active_L .account .account_bottom .bottom_a1 {
+	margin: 0 45px;
+}
+
+.active_fluid .active_L .account .account_bottom .bottom_a2 {
+	margin: 12px 27px;
+}
+
+.active_fluid .active_L .account .account_span1 {
+	margin: 0 0 0 8px;
+	font-size: 14px;
+	padding: 13px 0;
+}
+
+.active_fluid .active_L .account .account_span2 {
+	margin: 0 8px 0 0;
+	font-size: 14px;
+	padding: 13px 0;
+}
+
+/********************loging responsive end hear**********************/
+/*********************loging PAGE responsive end hear****************/
+
+
+
+/********************wallet responsive start hear**********************/
+/*********************wallet PAGE responsive start hear****************/
+
+
+.wallet_fluid .wallet_D .wallet_col {
+	width: 100%;
+	padding: 0px 0 0;
+}
+
+.wallet_fluid .wallet_D .current_help_a {
+	padding: 17px 88px 0 0;
+}
+
+.wallet_fluid .wallet_D .current_p {padding: 7px 0;}
+.wallet_fluid .wallet_D .current_send_a {margin: 0 0px 0 0;}
+
+.wallet_fluid .wallet_D .bitcoin_master_address .none {
+	margin: 0 82px;
+}
+
+
+/*modal responsive start hear*/
+.modal-dialog {
+	width: auto;
+	margin: auto;
+	height: auto;
+}
+
+.modal_div .modal_input {
+	margin: 12px 30px;
+}
+
+.modal_div .modal_img_div .modal_img {
+	width: 70%;
+}
+
+/*modal responsive end hear*/
+
+
+
+/********************wallet responsive end hear**********************/
+/*********************wallet PAGE responsive end hear****************/
+
+
+
+
+
+
+
+/*footer responsive start hear*/
+
+
+.col_one_third {
+	width: 100.63%;
+}
+/*footer responsive end hear*/
+
+
+
+
+}
+
+@media only screen and (min-width: 320px) and (max-width: 767px) { 
+	
+	
+}

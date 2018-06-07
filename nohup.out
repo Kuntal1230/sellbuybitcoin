@@ -1,0 +1,876 @@
+1526790415142 - error: listen EADDRINUSE 127.0.0.1:3000
+1526790464308 - info: blockchain.info wallet service v0.26.1 running on http://127.0.0.1:3000
+1526790470121 - error: listen EADDRINUSE 127.0.0.1:3000
+1526790474360 - error: listen EADDRINUSE 127.0.0.1:3000
+1526790475385 - error: listen EADDRINUSE 127.0.0.1:3000
+1526790478729 - error: listen EADDRINUSE 127.0.0.1:3000
+/c/Users/kgupt/AppData/Roaming/npm/blockchain-wallet-service: line 14: 10764 Hangup                  node "$basedir/node_modules/blockchain-wallet-service/bin/cli.js" "$@"
+1526790620815 - info: blockchain.info wallet service v0.26.1 running on http://127.0.0.1:3000
+1526797351342 - error: WebSocketError message=closed before the connection is established, code=undefined
+Unhandled rejection RequestError: Error: getaddrinfo ENOTFOUND blockchain.info blockchain.info:443
+    at new RequestError (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request-promise\lib\errors.js:11:15)
+    at Request.RP$callback [as _callback] (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request-promise\lib\rp.js:60:32)
+    at self.callback (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request\request.js:186:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request\request.js:878:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+    at TLSSocket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+/c/Users/kgupt/AppData/Roaming/npm/blockchain-wallet-service: line 14:  1292 Hangup                  node "$basedir/node_modules/blockchain-wallet-service/bin/cli.js" "$@"
+1526879038268 - info: blockchain.info wallet service v0.26.1 running on http://127.0.0.1:3000
+1526884714848 - error: WebSocketError message=closed before the connection is established, code=undefined
+/c/Users/kgupt/AppData/Roaming/npm/blockchain-wallet-service: line 14:  8560 Hangup                  node "$basedir/node_modules/blockchain-wallet-service/bin/cli.js" "$@"
+1526964328563 - info: blockchain.info wallet service v0.26.1 running on http://127.0.0.1:3000
+1526976732412 - error: WebSocketError message=closed before the connection is established, code=undefined
+1526976752550 - error: WebSocketError message=closed before the connection is established, code=undefined
+1526978227700 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526978247699 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526978267702 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526978287702 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526978307702 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526978327704 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526978347705 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526978367705 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526978387708 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526978407708 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526978427706 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526979143834 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526979163793 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526979183793 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526979192765 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526979212766 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526979243794 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526979263793 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526979272768 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526979303796 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526979312770 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+Unhandled rejection RequestError: Error: getaddrinfo ENOTFOUND blockchain.info blockchain.info:443
+    at new RequestError (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request-promise\lib\errors.js:11:15)
+    at Request.RP$callback [as _callback] (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request-promise\lib\rp.js:60:32)
+    at self.callback (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request\request.js:186:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request\request.js:878:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+    at TLSSocket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+1526979332771 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526979352773 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526979372774 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526979403801 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526979423801 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526979432776 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526979452777 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526979472776 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526979503806 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526979512779 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526979532782 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526979552782 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526979572783 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526979603811 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526979623812 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526979632787 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526979652789 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526979683819 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526979692814 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526979712793 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526979732794 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526979752794 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526979772795 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526979792797 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526979823823 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526979843825 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526979852799 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526979872800 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526979903828 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526979912801 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526979932803 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+Unhandled rejection RequestError: Error: getaddrinfo ENOTFOUND blockchain.info blockchain.info:443
+    at new RequestError (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request-promise\lib\errors.js:11:15)
+    at Request.RP$callback [as _callback] (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request-promise\lib\rp.js:60:32)
+    at self.callback (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request\request.js:186:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request\request.js:878:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+    at TLSSocket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+1526979963831 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526979972804 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526979992805 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526980023832 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526980043835 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526980052857 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526980072808 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526980092808 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526980112810 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526980143841 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526980163841 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526980172815 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526980192814 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526980212816 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526980232815 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526980263842 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526980272817 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526980303846 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526980323849 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526980332822 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526980363852 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526980383851 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526980403854 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526980423855 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526980432828 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526980452829 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526980472830 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526980492837 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526980523863 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+Unhandled rejection RequestError: Error: getaddrinfo ENOTFOUND blockchain.info blockchain.info:443
+    at new RequestError (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request-promise\lib\errors.js:11:15)
+    at Request.RP$callback [as _callback] (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request-promise\lib\rp.js:60:32)
+    at self.callback (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request\request.js:186:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request\request.js:878:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+    at TLSSocket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+1526980543863 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526980552835 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526980572837 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526980592839 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526980612839 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526980643868 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526980652840 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526980672842 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526980692841 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526981040605 - info: blockchain.info wallet service v0.26.1 running on http://127.0.0.1:3000
+1526989571343 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526989591326 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526989600263 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526989631370 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526989651384 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526989671414 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526989691444 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526989711474 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526989720410 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526989751565 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1526989771564 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527058395394 - info: blockchain.info wallet service v0.26.1 running on http://127.0.0.1:3000
+Unhandled rejection RequestError: Error: getaddrinfo ENOTFOUND blockchain.info blockchain.info:443
+    at new RequestError (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request-promise\lib\errors.js:11:15)
+    at Request.RP$callback [as _callback] (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request-promise\lib\rp.js:60:32)
+    at self.callback (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request\request.js:186:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request\request.js:878:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+    at TLSSocket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+1527064706446 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+/c/Users/kgupt/AppData/Roaming/npm/blockchain-wallet-service: line 14:  9932 Hangup                  node "$basedir/node_modules/blockchain-wallet-service/bin/cli.js" "$@"
+1527075575634 - info: blockchain.info wallet service v0.26.1 running on http://127.0.0.1:3000
+Unhandled rejection StatusCodeError: 403 - <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+<meta name="captcha-bypass" id="captcha-bypass" />
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" type="text/css" media="screen,projection" />
+<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" type="text/css" media="screen,projection" /><![endif]-->
+<style type="text/css">body{margin:0;padding:0}</style>
+
+
+<!--[if gte IE 10]><!--><script type="text/javascript" src="/cdn-cgi/scripts/zepto.min.js"></script><!--<![endif]-->
+<!--[if gte IE 10]><!--><script type="text/javascript" src="/cdn-cgi/scripts/cf.common.js"></script><!--<![endif]-->
+
+
+
+
+</head>
+<body>
+  <div id="cf-wrapper">
+    <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
+    <div id="cf-error-details" class="cf-error-details-wrapper">
+      <div class="cf-wrapper cf-header cf-error-overview">
+        <h1 data-translate="challenge_headline">One more step</h1>
+        <h2 class="cf-subheadline"><span data-translate="complete_sec_check">Please complete the security check to access</span> blockchain.info</h2>
+      </div><!-- /.header -->
+      
+      <div class="cf-section cf-highlight cf-captcha-container">
+        <div class="cf-wrapper">
+          <div class="cf-columns two">
+            <div class="cf-column">
+            
+              <div class="cf-highlight-inverse cf-form-stacked">
+                <form class="challenge-form" id="challenge-form" action="/cdn-cgi/l/chk_captcha" method="get">
+  <script type="text/javascript" src="/cdn-cgi/scripts/cf.challenge.js" data-type="normal"  data-ray="41f796116a7d70bc" async data-sitekey="6LfBixYUAAAAABhdHynFUIMA_sa4s-XsJvnjtgB0"></script>
+  <div class="g-recaptcha"></div>
+  <noscript id="cf-captcha-bookmark" class="cf-captcha-info">
+    <div><div style="width: 302px">
+      <div>
+        <iframe src="https://www.google.com/recaptcha/api/fallback?k=6LfBixYUAAAAABhdHynFUIMA_sa4s-XsJvnjtgB0" frameborder="0" scrolling="no" style="width: 302px; height:422px; border-style: none;"></iframe>
+      </div>
+      <div style="width: 300px; border-style: none; bottom: 12px; left: 25px; margin: 0px; padding: 0px; right: 25px; background: #f9f9f9; border: 1px solid #c1c1c1; border-radius: 3px;">
+        <textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid #c1c1c1; margin: 10px 25px; padding: 0px; resize: none;"></textarea>
+        <input type="submit" value="Submit"></input>
+      </div>
+    </div></div>
+  </noscript>
+</form>
+
+              </div>
+            </div>
+
+            <div class="cf-column">
+              <div class="cf-screenshot-container">
+              
+                <span class="cf-no-screenshot"></span>
+              
+              </div>
+            </div>
+          </div><!-- /.columns -->
+        </div>
+      </div><!-- /.captcha-container -->
+
+      <div class="cf-section cf-wrapper">
+        <div class="cf-columns two">
+          <div class="cf-column">
+            <h2 data-translate="why_captcha_headline">Why do I have to complete a CAPTCHA?</h2>
+            
+            <p data-translate="why_captcha_detail">Completing the CAPTCHA proves you are a human and gives you temporary access to the web property.</p>
+          </div>
+
+          <div class="cf-column">
+            <h2 data-translate="resolve_captcha_headline">What can I do to prevent this in the future?</h2>
+            
+
+            <p data-translate="resolve_captcha_antivirus">If you are on a personal connection, like at home, you can run an anti-virus scan on your device to make sure it is not infected with malware.</p>
+
+            <p data-translate="resolve_captcha_network">If you are at an office or shared network, you can ask the network administrator to run a scan across the network looking for misconfigured or infected devices.</p>
+            
+          </div>
+        </div>
+      </div><!-- /.section -->
+      
+
+      <div class="cf-error-footer cf-wrapper">
+  <p>
+    <span class="cf-footer-item">Cloudflare Ray ID: <strong>41f796116a7d70bc</strong></span>
+    <span class="cf-footer-separator">&bull;</span>
+    <span class="cf-footer-item"><span>Your IP</span>: 27.147.203.23</span>
+    <span class="cf-footer-separator">&bull;</span>
+    <span class="cf-footer-item"><span>Performance &amp; security by</span> <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=error_footer" id="brand_link" target="_blank">Cloudflare</a></span>
+    
+  </p>
+</div><!-- /.error-footer -->
+
+
+    </div><!-- /#cf-error-details -->
+  </div><!-- /#cf-wrapper -->
+
+  <script type="text/javascript">
+  window._cf_translation = {};
+  
+  
+</script>
+
+</body>
+</html>
+
+    at new StatusCodeError (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request-promise\lib\errors.js:26:15)
+    at Request.RP$callback [as _callback] (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request-promise\lib\rp.js:68:32)
+    at Request.self.callback (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request\request.js:186:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request\request.js:1163:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request\request.js:1085:12)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at IncomingMessage.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Unhandled rejection StatusCodeError: 403 - <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+<meta name="captcha-bypass" id="captcha-bypass" />
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" type="text/css" media="screen,projection" />
+<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" type="text/css" media="screen,projection" /><![endif]-->
+<style type="text/css">body{margin:0;padding:0}</style>
+
+
+<!--[if gte IE 10]><!--><script type="text/javascript" src="/cdn-cgi/scripts/zepto.min.js"></script><!--<![endif]-->
+<!--[if gte IE 10]><!--><script type="text/javascript" src="/cdn-cgi/scripts/cf.common.js"></script><!--<![endif]-->
+
+
+
+
+</head>
+<body>
+  <div id="cf-wrapper">
+    <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
+    <div id="cf-error-details" class="cf-error-details-wrapper">
+      <div class="cf-wrapper cf-header cf-error-overview">
+        <h1 data-translate="challenge_headline">One more step</h1>
+        <h2 class="cf-subheadline"><span data-translate="complete_sec_check">Please complete the security check to access</span> blockchain.info</h2>
+      </div><!-- /.header -->
+      
+      <div class="cf-section cf-highlight cf-captcha-container">
+        <div class="cf-wrapper">
+          <div class="cf-columns two">
+            <div class="cf-column">
+            
+              <div class="cf-highlight-inverse cf-form-stacked">
+                <form class="challenge-form" id="challenge-form" action="/cdn-cgi/l/chk_captcha" method="get">
+  <script type="text/javascript" src="/cdn-cgi/scripts/cf.challenge.js" data-type="normal"  data-ray="41f7a4b819bf70b6" async data-sitekey="6LfBixYUAAAAABhdHynFUIMA_sa4s-XsJvnjtgB0"></script>
+  <div class="g-recaptcha"></div>
+  <noscript id="cf-captcha-bookmark" class="cf-captcha-info">
+    <div><div style="width: 302px">
+      <div>
+        <iframe src="https://www.google.com/recaptcha/api/fallback?k=6LfBixYUAAAAABhdHynFUIMA_sa4s-XsJvnjtgB0" frameborder="0" scrolling="no" style="width: 302px; height:422px; border-style: none;"></iframe>
+      </div>
+      <div style="width: 300px; border-style: none; bottom: 12px; left: 25px; margin: 0px; padding: 0px; right: 25px; background: #f9f9f9; border: 1px solid #c1c1c1; border-radius: 3px;">
+        <textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid #c1c1c1; margin: 10px 25px; padding: 0px; resize: none;"></textarea>
+        <input type="submit" value="Submit"></input>
+      </div>
+    </div></div>
+  </noscript>
+</form>
+
+              </div>
+            </div>
+
+            <div class="cf-column">
+              <div class="cf-screenshot-container">
+              
+                <span class="cf-no-screenshot"></span>
+              
+              </div>
+            </div>
+          </div><!-- /.columns -->
+        </div>
+      </div><!-- /.captcha-container -->
+
+      <div class="cf-section cf-wrapper">
+        <div class="cf-columns two">
+          <div class="cf-column">
+            <h2 data-translate="why_captcha_headline">Why do I have to complete a CAPTCHA?</h2>
+            
+            <p data-translate="why_captcha_detail">Completing the CAPTCHA proves you are a human and gives you temporary access to the web property.</p>
+          </div>
+
+          <div class="cf-column">
+            <h2 data-translate="resolve_captcha_headline">What can I do to prevent this in the future?</h2>
+            
+
+            <p data-translate="resolve_captcha_antivirus">If you are on a personal connection, like at home, you can run an anti-virus scan on your device to make sure it is not infected with malware.</p>
+
+            <p data-translate="resolve_captcha_network">If you are at an office or shared network, you can ask the network administrator to run a scan across the network looking for misconfigured or infected devices.</p>
+            
+          </div>
+        </div>
+      </div><!-- /.section -->
+      
+
+      <div class="cf-error-footer cf-wrapper">
+  <p>
+    <span class="cf-footer-item">Cloudflare Ray ID: <strong>41f7a4b819bf70b6</strong></span>
+    <span class="cf-footer-separator">&bull;</span>
+    <span class="cf-footer-item"><span>Your IP</span>: 27.147.203.23</span>
+    <span class="cf-footer-separator">&bull;</span>
+    <span class="cf-footer-item"><span>Performance &amp; security by</span> <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=error_footer" id="brand_link" target="_blank">Cloudflare</a></span>
+    
+  </p>
+</div><!-- /.error-footer -->
+
+
+    </div><!-- /#cf-error-details -->
+  </div><!-- /#cf-wrapper -->
+
+  <script type="text/javascript">
+  window._cf_translation = {};
+  
+  
+</script>
+
+</body>
+</html>
+
+    at new StatusCodeError (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request-promise\lib\errors.js:26:15)
+    at Request.RP$callback [as _callback] (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request-promise\lib\rp.js:68:32)
+    at Request.self.callback (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request\request.js:186:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request\request.js:1163:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request\request.js:1085:12)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at IncomingMessage.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Unhandled rejection StatusCodeError: 403 - <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+<meta name="captcha-bypass" id="captcha-bypass" />
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" type="text/css" media="screen,projection" />
+<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" type="text/css" media="screen,projection" /><![endif]-->
+<style type="text/css">body{margin:0;padding:0}</style>
+
+
+<!--[if gte IE 10]><!--><script type="text/javascript" src="/cdn-cgi/scripts/zepto.min.js"></script><!--<![endif]-->
+<!--[if gte IE 10]><!--><script type="text/javascript" src="/cdn-cgi/scripts/cf.common.js"></script><!--<![endif]-->
+
+
+
+
+</head>
+<body>
+  <div id="cf-wrapper">
+    <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
+    <div id="cf-error-details" class="cf-error-details-wrapper">
+      <div class="cf-wrapper cf-header cf-error-overview">
+        <h1 data-translate="challenge_headline">One more step</h1>
+        <h2 class="cf-subheadline"><span data-translate="complete_sec_check">Please complete the security check to access</span> blockchain.info</h2>
+      </div><!-- /.header -->
+      
+      <div class="cf-section cf-highlight cf-captcha-container">
+        <div class="cf-wrapper">
+          <div class="cf-columns two">
+            <div class="cf-column">
+            
+              <div class="cf-highlight-inverse cf-form-stacked">
+                <form class="challenge-form" id="challenge-form" action="/cdn-cgi/l/chk_captcha" method="get">
+  <script type="text/javascript" src="/cdn-cgi/scripts/cf.challenge.js" data-type="normal"  data-ray="41f7b35d880d6fc6" async data-sitekey="6LfBixYUAAAAABhdHynFUIMA_sa4s-XsJvnjtgB0"></script>
+  <div class="g-recaptcha"></div>
+  <noscript id="cf-captcha-bookmark" class="cf-captcha-info">
+    <div><div style="width: 302px">
+      <div>
+        <iframe src="https://www.google.com/recaptcha/api/fallback?k=6LfBixYUAAAAABhdHynFUIMA_sa4s-XsJvnjtgB0" frameborder="0" scrolling="no" style="width: 302px; height:422px; border-style: none;"></iframe>
+      </div>
+      <div style="width: 300px; border-style: none; bottom: 12px; left: 25px; margin: 0px; padding: 0px; right: 25px; background: #f9f9f9; border: 1px solid #c1c1c1; border-radius: 3px;">
+        <textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid #c1c1c1; margin: 10px 25px; padding: 0px; resize: none;"></textarea>
+        <input type="submit" value="Submit"></input>
+      </div>
+    </div></div>
+  </noscript>
+</form>
+
+              </div>
+            </div>
+
+            <div class="cf-column">
+              <div class="cf-screenshot-container">
+              
+                <span class="cf-no-screenshot"></span>
+              
+              </div>
+            </div>
+          </div><!-- /.columns -->
+        </div>
+      </div><!-- /.captcha-container -->
+
+      <div class="cf-section cf-wrapper">
+        <div class="cf-columns two">
+          <div class="cf-column">
+            <h2 data-translate="why_captcha_headline">Why do I have to complete a CAPTCHA?</h2>
+            
+            <p data-translate="why_captcha_detail">Completing the CAPTCHA proves you are a human and gives you temporary access to the web property.</p>
+          </div>
+
+          <div class="cf-column">
+            <h2 data-translate="resolve_captcha_headline">What can I do to prevent this in the future?</h2>
+            
+
+            <p data-translate="resolve_captcha_antivirus">If you are on a personal connection, like at home, you can run an anti-virus scan on your device to make sure it is not infected with malware.</p>
+
+            <p data-translate="resolve_captcha_network">If you are at an office or shared network, you can ask the network administrator to run a scan across the network looking for misconfigured or infected devices.</p>
+            
+          </div>
+        </div>
+      </div><!-- /.section -->
+      
+
+      <div class="cf-error-footer cf-wrapper">
+  <p>
+    <span class="cf-footer-item">Cloudflare Ray ID: <strong>41f7b35d880d6fc6</strong></span>
+    <span class="cf-footer-separator">&bull;</span>
+    <span class="cf-footer-item"><span>Your IP</span>: 27.147.203.23</span>
+    <span class="cf-footer-separator">&bull;</span>
+    <span class="cf-footer-item"><span>Performance &amp; security by</span> <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=error_footer" id="brand_link" target="_blank">Cloudflare</a></span>
+    
+  </p>
+</div><!-- /.error-footer -->
+
+
+    </div><!-- /#cf-error-details -->
+  </div><!-- /#cf-wrapper -->
+
+  <script type="text/javascript">
+  window._cf_translation = {};
+  
+  
+</script>
+
+</body>
+</html>
+
+    at new StatusCodeError (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request-promise\lib\errors.js:26:15)
+    at Request.RP$callback [as _callback] (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request-promise\lib\rp.js:68:32)
+    at Request.self.callback (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request\request.js:186:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request\request.js:1163:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request\request.js:1085:12)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at IncomingMessage.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+/c/Users/kgupt/AppData/Roaming/npm/blockchain-wallet-service: line 14:  2292 Hangup                  node "$basedir/node_modules/blockchain-wallet-service/bin/cli.js" "$@"
+1527138980362 - info: blockchain.info wallet service v0.26.1 running on http://127.0.0.1:3000
+No destination set.
+No origin set.
+1527142172737 - error: ERR_BUILDTX
+No destination set.
+No origin set.
+1527142221766 - error: ERR_BUILDTX
+Unhandled rejection RequestError: Error: getaddrinfo ENOTFOUND blockchain.info blockchain.info:443
+    at new RequestError (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request-promise\lib\errors.js:11:15)
+    at Request.RP$callback [as _callback] (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request-promise\lib\rp.js:60:32)
+    at self.callback (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request\request.js:186:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request\request.js:878:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+    at TLSSocket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+1527150691945 - info: blockchain.info wallet service v0.26.1 running on http://127.0.0.1:3000
+/c/Users/kgupt/AppData/Roaming/npm/blockchain-wallet-service: line 14:  4268 Hangup                  node "$basedir/node_modules/blockchain-wallet-service/bin/cli.js" "$@"
+1527308370501 - info: blockchain.info wallet service v0.26.1 running on http://127.0.0.1:3000
+1527334633958 - error: WebSocketError message=closed before the connection is established, code=undefined
+/c/Users/kgupt/AppData/Roaming/npm/blockchain-wallet-service: line 14: 11468 Hangup                  node "$basedir/node_modules/blockchain-wallet-service/bin/cli.js" "$@"
+1527395339877 - info: blockchain.info wallet service v0.26.1 running on http://127.0.0.1:3000
+/c/Users/kgupt/AppData/Roaming/npm/blockchain-wallet-service: line 14: 13700 Hangup                  node "$basedir/node_modules/blockchain-wallet-service/bin/cli.js" "$@"
+1527481541010 - info: blockchain.info wallet service v0.26.1 running on http://127.0.0.1:3000
+1527481626423 - error: listen EADDRINUSE 127.0.0.1:3000
+/c/Users/kgupt/AppData/Roaming/npm/blockchain-wallet-service: line 14:  8512 Hangup                  node "$basedir/node_modules/blockchain-wallet-service/bin/cli.js" "$@"
+1527481663668 - info: blockchain.info wallet service v0.26.1 running on http://127.0.0.1:3000
+/c/Users/kgupt/AppData/Roaming/npm/blockchain-wallet-service: line 14: 13832 Hangup                  node "$basedir/node_modules/blockchain-wallet-service/bin/cli.js" "$@"
+1527482278423 - error: listen EADDRINUSE 127.0.0.1:3000
+1527482586307 - error: listen EADDRINUSE 127.0.0.1:3000
+1527483052204 - error: listen EADDRINUSE 127.0.0.1:3000
+1527483606648 - info: blockchain.info wallet service v0.26.1 running on http://127.0.0.1:3000
+Unhandled rejection StatusCodeError: 503 - No frontdoor hosts available
+    at new StatusCodeError (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request-promise\lib\errors.js:26:15)
+    at Request.RP$callback [as _callback] (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request-promise\lib\rp.js:68:32)
+    at Request.self.callback (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request\request.js:186:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request\request.js:1163:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request\request.js:1085:12)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at IncomingMessage.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Unhandled rejection RequestError: Error: getaddrinfo ENOTFOUND blockchain.info blockchain.info:443
+    at new RequestError (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request-promise\lib\errors.js:11:15)
+    at Request.RP$callback [as _callback] (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request-promise\lib\rp.js:60:32)
+    at self.callback (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request\request.js:186:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request\request.js:878:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+    at TLSSocket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+1527506247209 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527506267026 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527506276020 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527506296048 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527506330625 - error: WebSocketError message=unexpected server response (504), code=undefined
+1527506391201 - error: WebSocketError message=closed before the connection is established, code=undefined
+1527506411208 - error: WebSocketError message=closed before the connection is established, code=undefined
+1527506431210 - error: WebSocketError message=closed before the connection is established, code=undefined
+Unhandled rejection RequestError: Error: getaddrinfo ENOTFOUND blockchain.info blockchain.info:443
+    at new RequestError (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request-promise\lib\errors.js:11:15)
+    at Request.RP$callback [as _callback] (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request-promise\lib\rp.js:60:32)
+    at self.callback (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request\request.js:186:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request\request.js:878:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+    at TLSSocket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+1527506451211 - error: WebSocketError message=closed before the connection is established, code=undefined
+1527506471215 - error: WebSocketError message=closed before the connection is established, code=undefined
+1527506491216 - error: WebSocketError message=closed before the connection is established, code=undefined
+1527506511220 - error: WebSocketError message=closed before the connection is established, code=undefined
+1527506531222 - error: WebSocketError message=closed before the connection is established, code=undefined
+1527506551225 - error: WebSocketError message=closed before the connection is established, code=undefined
+1527506571237 - error: WebSocketError message=closed before the connection is established, code=undefined
+1527506591238 - error: WebSocketError message=closed before the connection is established, code=undefined
+1527506611252 - error: WebSocketError message=closed before the connection is established, code=undefined
+1527506631267 - error: WebSocketError message=closed before the connection is established, code=undefined
+1527506642322 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527506651271 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527506671270 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527506691270 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527506711272 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527506731271 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527506751272 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527506771276 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527506802312 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527506811278 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527506842309 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527506851278 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527506871279 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527506891301 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527506911282 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527506931285 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527506962321 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527506982344 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527506991289 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527507022348 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527507042329 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+Unhandled rejection RequestError: Error: getaddrinfo ENOTFOUND blockchain.info blockchain.info:443
+    at new RequestError (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request-promise\lib\errors.js:11:15)
+    at Request.RP$callback [as _callback] (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request-promise\lib\rp.js:60:32)
+    at self.callback (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request\request.js:186:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request\request.js:878:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+    at TLSSocket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+1527507051291 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527507082325 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527507102350 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527507111310 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527507142395 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527507151344 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527510962946 - error: WebSocketError message=closed before the connection is established, code=undefined
+1527510982949 - error: WebSocketError message=closed before the connection is established, code=undefined
+1527511002951 - error: WebSocketError message=closed before the connection is established, code=undefined
+1527511022952 - error: WebSocketError message=closed before the connection is established, code=undefined
+1527511587994 - error: WebSocketError message=closed before the connection is established, code=undefined
+1527511607996 - error: WebSocketError message=closed before the connection is established, code=undefined
+1527511627998 - error: WebSocketError message=closed before the connection is established, code=undefined
+1527511647999 - error: WebSocketError message=closed before the connection is established, code=undefined
+/c/Users/kgupt/AppData/Roaming/npm/blockchain-wallet-service: line 14: 11008 Hangup                  node "$basedir/node_modules/blockchain-wallet-service/bin/cli.js" "$@"
+1527568358486 - info: blockchain.info wallet service v0.26.1 running on http://127.0.0.1:3000
+1527582241728 - error: WebSocketError message=closed before the connection is established, code=undefined
+1527582253027 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527582261964 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527582281967 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527582301979 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527582321994 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527582342009 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527582362024 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527582382041 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527582402056 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527582422073 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527582442073 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527582462089 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527582482104 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527582502108 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527582522131 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+Unhandled rejection RequestError: Error: getaddrinfo ENOTFOUND blockchain.info blockchain.info:443
+    at new RequestError (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request-promise\lib\errors.js:11:15)
+    at Request.RP$callback [as _callback] (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request-promise\lib\rp.js:60:32)
+    at self.callback (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request\request.js:186:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request\request.js:878:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+    at TLSSocket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+1527582542143 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527582562171 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527582582198 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527582602213 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527582622229 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527582642323 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527582662252 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527582682254 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527582702255 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+/c/Users/kgupt/AppData/Roaming/npm/blockchain-wallet-service: line 14:  8972 Hangup                  node "$basedir/node_modules/blockchain-wallet-service/bin/cli.js" "$@"
+1527658828862 - info: blockchain.info wallet service v0.26.1 running on http://127.0.0.1:3000
+1527667381517 - error: WebSocketError message=closed before the connection is established, code=undefined
+1527667401586 - error: WebSocketError message=closed before the connection is established, code=undefined
+1527667421626 - error: WebSocketError message=closed before the connection is established, code=undefined
+1527667434788 - error: undefined initial_error=Connectivity error, failed to send network request
+1527667441629 - error: WebSocketError message=closed before the connection is established, code=undefined
+1527667456259 - error: undefined initial_error=Connectivity error, failed to send network request
+1527667461631 - error: WebSocketError message=closed before the connection is established, code=undefined
+1527667481633 - error: WebSocketError message=closed before the connection is established, code=undefined
+1527667492670 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527667495746 - error: undefined initial_error=Connectivity error, failed to send network request
+1527667512668 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527667527257 - error: undefined initial_error=Connectivity error, failed to send network request
+1527667532669 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527667541638 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527667559306 - error: undefined initial_error=Connectivity error, failed to send network request
+1527667561644 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527667580241 - error: undefined initial_error=Connectivity error, failed to send network request
+1527667581643 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527667613649 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527667621647 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527667625277 - error: undefined initial_error=Connectivity error, failed to send network request
+1527667653651 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527667658255 - error: undefined initial_error=Connectivity error, failed to send network request
+1527667661649 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527667679243 - error: undefined initial_error=Connectivity error, failed to send network request
+1527667681660 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+1527672236687 - info: blockchain.info wallet service v0.26.1 running on http://127.0.0.1:3000
+/c/Users/kgupt/AppData/Roaming/npm/blockchain-wallet-service: line 14:  9116 Hangup                  node "$basedir/node_modules/blockchain-wallet-service/bin/cli.js" "$@"
+1527678307419 - info: blockchain.info wallet service v0.26.1 running on http://127.0.0.1:3000
+/c/Users/kgupt/AppData/Roaming/npm/blockchain-wallet-service: line 14:  4436 Hangup                  node "$basedir/node_modules/blockchain-wallet-service/bin/cli.js" "$@"
+1527745429201 - info: blockchain.info wallet service v0.26.1 running on http://127.0.0.1:3000
+/c/Users/kgupt/AppData/Roaming/npm/blockchain-wallet-service: line 14:  3172 Hangup                  node "$basedir/node_modules/blockchain-wallet-service/bin/cli.js" "$@"
+1527925587389 - info: blockchain.info wallet service v0.26.1 running on http://127.0.0.1:3000
+/c/Users/kgupt/AppData/Roaming/npm/blockchain-wallet-service: line 14:  5728 Hangup                  node "$basedir/node_modules/blockchain-wallet-service/bin/cli.js" "$@"
+1528007699607 - info: blockchain.info wallet service v0.26.1 running on http://127.0.0.1:3000
+Unhandled rejection RequestError: Error: getaddrinfo ENOTFOUND blockchain.info blockchain.info:443
+    at new RequestError (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request-promise\lib\errors.js:11:15)
+    at Request.RP$callback [as _callback] (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request-promise\lib\rp.js:60:32)
+    at self.callback (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request\request.js:186:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request\request.js:878:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+    at TLSSocket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+/c/Users/kgupt/AppData/Roaming/npm/blockchain-wallet-service: line 14:  9616 Hangup                  node "$basedir/node_modules/blockchain-wallet-service/bin/cli.js" "$@"
+1528087286488 - info: blockchain.info wallet service v0.26.1 running on http://127.0.0.1:3000
+/c/Users/kgupt/AppData/Roaming/npm/blockchain-wallet-service: line 14: 10236 Hangup                  node "$basedir/node_modules/blockchain-wallet-service/bin/cli.js" "$@"
+1528092742762 - info: blockchain.info wallet service v0.26.1 running on http://127.0.0.1:3000
+/c/Users/kgupt/AppData/Roaming/npm/blockchain-wallet-service: line 14: 12644 Hangup                  node "$basedir/node_modules/blockchain-wallet-service/bin/cli.js" "$@"
+1528175505006 - info: blockchain.info wallet service v0.26.1 running on http://127.0.0.1:3000
+Unhandled rejection RequestError: Error: getaddrinfo ENOTFOUND blockchain.info blockchain.info:443
+    at new RequestError (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request-promise\lib\errors.js:11:15)
+    at Request.RP$callback [as _callback] (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request-promise\lib\rp.js:60:32)
+    at self.callback (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request\request.js:186:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request\request.js:878:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+    at TLSSocket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+/c/Users/kgupt/AppData/Roaming/npm/blockchain-wallet-service: line 14:  4928 Hangup                  node "$basedir/node_modules/blockchain-wallet-service/bin/cli.js" "$@"
+1528188802479 - info: blockchain.info wallet service v0.26.1 running on http://127.0.0.1:3000
+/c/Users/kgupt/AppData/Roaming/npm/blockchain-wallet-service: line 14:  2184 Hangup                  node "$basedir/node_modules/blockchain-wallet-service/bin/cli.js" "$@"
+1528259101470 - info: blockchain.info wallet service v0.26.1 running on http://127.0.0.1:3000
+Unhandled rejection RequestError: Error: getaddrinfo ENOTFOUND blockchain.info blockchain.info:443
+    at new RequestError (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request-promise\lib\errors.js:11:15)
+    at Request.RP$callback [as _callback] (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request-promise\lib\rp.js:60:32)
+    at self.callback (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request\request.js:186:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (C:\Users\kgupt\AppData\Roaming\npm\node_modules\blockchain-wallet-service\node_modules\request\request.js:878:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+    at TLSSocket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+1528273212699 - error: WebSocketError message=getaddrinfo ENOTFOUND ws.blockchain.info ws.blockchain.info:443, code=ENOTFOUND
+/c/Users/kgupt/AppData/Roaming/npm/blockchain-wallet-service: line 14:  4940 Hangup                  node "$basedir/node_modules/blockchain-wallet-service/bin/cli.js" "$@"

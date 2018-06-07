@@ -1,0 +1,33 @@
+{
+    "name": "gupta/blockchain",
+    "description": "Laravel packeg for Blockchain.info API",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kuntal Gupta",
+            "email": "gupta@kuntal.me"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+    "php": "^5.4.0|^7.0",
+    "illuminate/support": "5.*",
+    "guzzlehttp/guzzle": "5.*|6.*"
+   },
+   "require-dev": {
+        "phpunit/phpunit" : "4.*"
+    },
+    "autoload": {
+        "psr-4" : {
+            "Gupta\\Blockchain\\": "src"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Gupta\\Blockchain\\BlockchainServiceProvider"
+            ]
+        }
+    }
+}
